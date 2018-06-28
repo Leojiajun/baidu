@@ -18,5 +18,6 @@ public class VesitBaidu {
 	@Test
 	public void baidu(){
 		driver.get("https://www.baidu.com/");
+		System.out.println("**********7777777777");
 	}
 }
