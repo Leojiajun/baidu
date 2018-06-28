@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="baidu" duration-ms="3617" started-at="2018-06-28T09:25:17Z" finished-at="2018-06-28T09:25:21Z">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="3617" started-at="2018-06-28T09:25:17Z" finished-at="2018-06-28T09:25:21Z">
+      <class name="paratice.ParaticeJenkins.VesitBaidu">
+        <test-method status="PASS" signature="loadDriver()[pri:0, instance:paratice.ParaticeJenkins.VesitBaidu@5c7fa833]" name="loadDriver" is-config="true" duration-ms="2930" started-at="2018-06-28T17:25:17Z" finished-at="2018-06-28T17:25:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadDriver -->
+        <test-method status="PASS" signature="baidu()[pri:0, instance:paratice.ParaticeJenkins.VesitBaidu@5c7fa833]" name="baidu" duration-ms="677" started-at="2018-06-28T17:25:20Z" finished-at="2018-06-28T17:25:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baidu -->
+      </class> <!-- paratice.ParaticeJenkins.VesitBaidu -->
+    </test> <!-- Test1 -->
+  </suite> <!-- baidu -->
+</testng-results>

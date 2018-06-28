@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="baidu" >
+  <test name="Test1">
+    <classes >
+      <class name="paratice.ParaticeJenkins.VesitBaidu"/>
+     </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
